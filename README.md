@@ -28,7 +28,7 @@ Now, although X Education gets a lot of leads, its lead conversion rate is very 
 
     lead_scoring_case_study.ipynb : The python file showing coding and data analysis
     Assignment Subjective Questions.pdf : Some subjective questions answered
-    Lead Score Case Study.pdf : Final Presentation
+    Presentation.pdf : Final Presentation
     Leads.csv : Data File
     Leads Data Dictionary.xlsx : Data Dictionary
     Summary.pdf : Summary on what's done in the entire py file
